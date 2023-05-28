@@ -1,2 +1,2 @@
 ### dennload
-dennload is a site where videos can be downloaded from any website.
+dennload is a website created by @dennzlak where you can download gifs from giphy.com
